@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_academia"
+        android:icon="@drawable/ic_peso"
+        android:title="Gym"
+        android:state_enabled="true" />
+
+    <item
+        android:id="@+id/navigation_compras"
+        android:icon="@drawable/ic_compras"
+        android:title="Compras"/>
+
+    <item
+        android:id="@+id/navigation_faculdade"
+        android:icon="@drawable/ic_target"
+        android:title="Tarefas"/>
+
+    <item
+        android:id="@+id/navigation_profissinal"
+        android:icon="@drawable/ic_winner"
+        android:title="Metas"/>
+
+</menu>

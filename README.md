@@ -3,4 +3,4 @@ Aplicativo para organização da minha vida pessoal, para crescimento profission
 
 ![](https://user-images.githubusercontent.com/40842310/55644184-7ece8a80-57ab-11e9-9418-bea45f81c663.gif)
 
-Desenvolvido por ![Galaxyware](https://maiaram.github.io)
+Desenvolvido por [Galaxyware](https://maiaram.github.io)

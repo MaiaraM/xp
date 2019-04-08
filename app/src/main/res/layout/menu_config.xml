@@ -6,8 +6,8 @@
     <ImageButton
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:src="@drawable/ic_winner"
-        android:layout_margin="15dp"/>
+        android:src="@drawable/ic_home_icon_silhouette"
+        android:layout_margin="15dp" />
 
     <ImageButton
         android:layout_width="50dp"

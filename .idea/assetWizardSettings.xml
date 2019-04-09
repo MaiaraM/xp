@@ -95,8 +95,8 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="outputName" value="ic_target" />
-                            <entry key="sourceFile" value="C:\Users\Dev2\Downloads\target.svg" />
+                            <entry key="outputName" value="ic_home_icon_silhouette" />
+                            <entry key="sourceFile" value="C:\Users\Dev2\Downloads\home-icon-silhouette.svg" />
                           </map>
                         </option>
                       </PersistentState>

@@ -6,16 +6,22 @@
     <ImageButton
         android:layout_width="50dp"
         android:layout_height="50dp"
+<<<<<<< HEAD
+        android:src="@drawable/ic_trophy"
+
+        android:background="@drawable/borda_redonda"/>
+=======
         android:src="@drawable/ic_home_icon_silhouette"
         android:layout_margin="15dp" />
+>>>>>>> b6537de8c1c0fd76f0f0e108384f2b3a16053b96
 
     <ImageButton
         android:layout_width="50dp"
         android:layout_height="50dp"
+        android:layout_marginEnd="20dp"
         android:layout_alignParentEnd="true"
         android:background="@drawable/border_circle"
-        android:src="@drawable/ic_winner"
-        android:layout_margin="3dp"/>
+        android:src="@drawable/ic_facu"/>
 
 
 

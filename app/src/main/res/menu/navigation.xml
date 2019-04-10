@@ -13,12 +13,12 @@
         android:title="Compras"/>
 
     <item
-        android:id="@+id/navigation_faculdade"
+        android:id="@+id/navigation_tarefas"
         android:icon="@drawable/ic_target"
         android:title="Tarefas"/>
 
     <item
-        android:id="@+id/navigation_profissinal"
+        android:id="@+id/navigation_metas"
         android:icon="@drawable/ic_winner"
         android:title="Metas"/>
 
